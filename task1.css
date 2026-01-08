@@ -1,0 +1,30 @@
+button{
+    color:blue;
+}
+.menu{
+    text-align:center;
+    background-color:black;
+}
+.menu ul{
+    display:inline flex;
+    color:floralwhite;
+}
+.menu ul li{
+    font-family:Impact;
+    width:120px;
+    margin:15px;
+    padding:15px;
+}
+button{
+    background-color:blue;
+    color:white;
+}
+.div1{
+    background-color:lightgrey;
+}
+.class1{
+    display:flex;
+    gap:30px;
+    align-items:center;
+    justify-content:space-around;
+}
